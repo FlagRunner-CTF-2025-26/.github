@@ -9,7 +9,7 @@ The goal of this project is to provide a realistic, hands-on learning environmen
 - **Target group:** ~100 students  
 - **Hosting:** Cloud-based infrastructure  
 - **Developed by:** Students, for students  
-- **Year:** 2026  
+- **Date:** 26.03.2026  
 
 FlagRunner is designed to simulate real-world security scenarios while maintaining a safe and controlled environment suitable for educational use.
 
