@@ -4,7 +4,7 @@ FlagRunner CTF 2026 is a school-internal, cloud-based Capture-the-Flag (CTF) pla
 
 The goal of this project is to provide a realistic, hands-on learning environment for students to practice and improve their skills in **IT security, networking, Linux, and system administration** through a competitive and engaging format.
 
-## 🎯 Project Overview
+## Project Overview
 - **Type:** School-internal Capture-the-Flag competition  
 - **Target group:** ~100 students  
 - **Hosting:** Cloud-based infrastructure  
@@ -13,7 +13,7 @@ The goal of this project is to provide a realistic, hands-on learning environmen
 
 FlagRunner is designed to simulate real-world security scenarios while maintaining a safe and controlled environment suitable for educational use.
 
-## 🧩 Challenges & Topics
+## Challenges & Topics
 The CTF includes challenges from multiple areas of IT and cybersecurity, such as:
 - Web Security  
 - Linux & System Administration  
@@ -24,22 +24,22 @@ The CTF includes challenges from multiple areas of IT and cybersecurity, such as
 
 Challenges are structured across different difficulty levels to support both beginners and advanced students.
 
-## 🚀 Learning Goals
+## Learning Goals
 - Apply theoretical knowledge in practical scenarios  
 - Understand common security vulnerabilities and attack vectors  
 - Improve problem-solving and analytical thinking  
 - Encourage teamwork and healthy competition  
 
-## 🛠️ Technology (planned / used)
+## Technology (planned / used)
 - Cloud-based virtual machines & containers  
 - Linux-based systems  
 - Custom challenge infrastructure  
 - Version control with Git & GitHub  
 
-## 🏫 About the School
+## About the School
 **HTBLuVA Villach**  
 Higher Technical Federal College focusing on engineering and IT education.
 
-## ⚠️ Disclaimer
+## Disclaimer
 This platform is intended **strictly for educational purposes**.  
 All challenges are hosted in isolated environments. Any misuse outside this project is strongly discouraged.
